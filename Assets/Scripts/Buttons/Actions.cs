@@ -1,15 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Actions : MonoBehaviour {
+public class Actions {
 
-	// Use this for initialization
-	void Start () {
+	public static void 
 	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 }

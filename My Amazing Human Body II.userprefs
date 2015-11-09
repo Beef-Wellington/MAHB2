@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ActionButton.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Buttons\Actions.cs">
     <Files>
       <File FileName="Assets\Scripts\Buttons\Button.cs" Line="8" Column="31" />
-      <File FileName="Assets\Scripts\ActionButton.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\Buttons\Actions.cs" Line="6" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
