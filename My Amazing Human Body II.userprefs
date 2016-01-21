@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Buttons\Actions.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\The_General\Assets\Editor\ImageEffects\TonemappingEditor.cs">
     <Files>
-      <File FileName="Assets\Scripts\Buttons\Button.cs" Line="8" Column="31" />
-      <File FileName="Assets\Scripts\Buttons\Actions.cs" Line="6" Column="21" />
+      <File FileName="..\The_General\Assets\Editor\ImageEffects\TonemappingEditor.cs" Line="7" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
